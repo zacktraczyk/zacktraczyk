@@ -11,6 +11,5 @@ Here are some projects I am proud of:
 - [Blob Mob](https://xxzbuckxx.github.io/Blob-Mob/) - an arcade style web game
 - [Boid Simulation](https://github.com/xxzbuckxx/Boid-Simulation) - a 3D flocking simulation
 
-You can check out my portfolio here:
-
-- [Portfolio](https://zacktraczyk.com)
+Check out my [Portfolio](https://zacktraczyk.com) 📝 </br>
+Or connect with me on [LinkedIn](https://www.linkedin.com/in/zachary-traczyk-140b541b2/) 👈🏻
