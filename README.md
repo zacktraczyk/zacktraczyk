@@ -1,16 +1,16 @@
-### Hi there 👋
+Zack Traczyk - Software Engineer
+---
 
-<!--
-**xxzbuckxx/xxzbuckxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Zack Traczyk. I'm a software engineer and a computer science student at the **University of California Santa Cruz**.
 
-Here are some ideas to get you started:
+*Go Banana Slugs!*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+Here are some projects I am proud of:
+
+- [Blob Mob](https://xxzbuckxx.github.io/Blob-Mob/) - an arcade style web game
+- [Boid Simulation](https://github.com/xxzbuckxx/Boid-Simulation) - a 3D flocking simulation
+
+You can check out my portfolio here:
+
+- [Portfolio](https://zacktraczyk.com)
