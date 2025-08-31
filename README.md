@@ -8,7 +8,7 @@ Hello, I'm Zack Traczyk. I'm a software engineer and a computer science student 
 ---
 Here are some projects I am proud of:
 
-- [Blob Mob](https://xxzbuckxx.github.io/Blob-Mob/) - an arcade style web game
+- [Blob Mob](https://blob-mob.vercel.app/) - an arcade style web game
 - [Boid Simulation](https://github.com/xxzbuckxx/Boid-Simulation) - a 3D flocking simulation
 
 Check out my [Portfolio](https://zacktraczyk.com) 📝 </br>
